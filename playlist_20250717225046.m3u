@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd" group-title="",https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+referrer=https://visionplus.id/
+#EXTINF:-1 tvg-id="https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd" group-title="",https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+referer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&amp;sid=zvBmkJ9TEU8p4I5i1AcfV1bccxBwqr2Tp3N8rcj9&amp;secret=e9ca71be20d71287d9b51aeba232817b&amp;time=1736774881" group-title="",https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&amp;sid=zvBmkJ9TEU8p4I5i1AcfV1bccxBwqr2Tp3N8rcj9&amp;secret=e9ca71be20d71287d9b51aeba232817b&amp;time=1736774881
+Referer=https://kakotv.com/
+#EXTINF:-1 tvg-id="https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&amp;sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&amp;secret=7123ee7ebfa5269848adbd93d9d648c2&amp;time=1736774841" group-title="",https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&amp;sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&amp;secret=7123ee7ebfa5269848adbd93d9d648c2&amp;time=1736774841
+Referer=https://kakotv.com/
