@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="hotstar-sshd1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Disney%2B_Hotstar_logo.svg" group-title="Hotstar", Hotstar Live
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=KEY_ID:KEY
+https://livetv-push.hotstar.com/dash/live/2002464/sshd1livetvwv/master.mpd?%7Ccookie=hdntl=exp=1754902280~acl=*sshd1livetv*~id=3dbd08e70a043754c97a28e9ed8acd02~data=hdntl~hmac=f99ae9095eda9a25e525c502264270d2f4e752001800875fc66641f1d344d1fb&User-agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d 
